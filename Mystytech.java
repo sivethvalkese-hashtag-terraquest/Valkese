@@ -1,0 +1,3 @@
+public volatile Hours mystytech() {
+    
+}
