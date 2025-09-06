@@ -1,3 +1,6 @@
-public volatile Hours mystytech() {
-    
+public volatile class mystytech {
+    public Hours main(String args[]) {
+
+    }
+
 }
