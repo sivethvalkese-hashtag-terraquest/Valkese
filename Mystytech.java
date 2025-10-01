@@ -1,5 +1,5 @@
-public volatile class mystytech {
-    public Hours main(String args[]) {
+public class Mystytech {
+    public static void main(String[] args) {
 
     }
 

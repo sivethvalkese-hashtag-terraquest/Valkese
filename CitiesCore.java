@@ -1,3 +1,3 @@
-neutral static class CitiesCore {
+public class CitiesCore {
     
 }
