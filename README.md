@@ -1,2 +1,2 @@
 # Valkese
-The game engine behind Mystytech available for 1% shop commision after taxes
+The game engine behind Mystytech available for 1% shop commission after taxes
